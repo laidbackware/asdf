@@ -66,7 +66,7 @@ install_dummy_legacy_plugin() {
 }
 
 install_dummy_broken_plugin() {
-  install_mock_plugin "dummy-broken"
+  install_mock_broken_plugin "dummy-broken"
 }
 
 install_dummy_version() {
